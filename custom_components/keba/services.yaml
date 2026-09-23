@@ -71,7 +71,7 @@ set_datetime:
       required: true
       selector:
         device:
-          integration: keba         
+          integration: keba
 
 set_failsafe:
   fields:

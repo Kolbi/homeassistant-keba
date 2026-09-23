@@ -107,7 +107,7 @@
           "description": "Die Keba Ladestation, deren Uhrzeit synchronisiert werden soll."
         }
       }
-    },    
+    },
     "set_failsafe": {
       "name": "Failsafe Modus setzen",
       "description": "Set the failsafe mode of the Ladestation. If all parameters are 0, the failsafe mode will be disabled.",

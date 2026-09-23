@@ -106,7 +106,7 @@
           "description": "The Keba Charging Station to synchronize."
         }
       }
-    },    
+    },
     "set_failsafe": {
       "name": "Set failsafe",
       "description": "Set the failsafe mode of the charging station. If all parameters are 0, the failsafe mode will be disabled.",
